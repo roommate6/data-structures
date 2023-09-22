@@ -1,6 +1,6 @@
 # Data structures implementations
 
-- Here you will find implementations of diferent data structures in diferent programming languages.
+- Here you will find implementations of different data structures in different programming languages.
 
 #### Cpp:
 
