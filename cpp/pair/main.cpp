@@ -4,8 +4,10 @@
 
 int main()
 {
-    Pair<int, std::string> idPerson(1, "Alex");
+    int id;
+    std::cin >> id;
 
+    Pair<int, std::string> idPerson(id, "Alex");
     std::cout << idPerson.GetFirst() << ' ' << idPerson.GetSecond() << std::endl;
 
     return 0;
